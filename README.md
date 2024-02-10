@@ -1,36 +1,32 @@
 # calculator
 
 ## Change Log  📝 
-**feat: Set calculate button clue**
+* v0.1.0 - 09/02/2024:
+  - **feat: Set calculate button blue**
+  -  **feat: Create Server**
 
-<br>
+     -> Install express
 
-**feat: Set calculate button red**
+  - **feat: Add CSS**
 
-<br>
+    -> Add style.css
+    
+    -> Add divs to get flexbox correct
+    
+    -> Add HTML tags classes
+    
+    -> Add parseInt to JS to prevent bugs
 
-**feat: Create Server**
-- Install express
-<br>
+  - **feat: Add HTML/JS**
+    
+    -> Add src/frontend/
+    
+    -> Add HTML inputs
+    
+    -> Add JavaScript logic
+    
+    -> Add HTML and JS integration
 
-**feat: Add CSS**
-- Add style.css
-- Add divs to get flexbox correct
-- Add HTML tags classes
-- Add parseInt to JS to prevent bugs
-
-<br>
-
-**feat: Add HTML/JS**
-- Add src/frontend/
-- Add HTML inputs
-- Add JavaScript logic
-- Add HTML and JS integration
-
-<br>
-
-**feat: Add database file**
-- Add src/database/calculatordb.sql
+  - **feat: Add database file**
   
-
-
+    -> Add src/database/calculatordb.sql
