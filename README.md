@@ -1,5 +1,7 @@
 # calculator
 
+The Calculator Project is a web application that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). Users input two numbers and select an operator (+, -, *, or /) to perform the calculation. The result is displayed on the screen. The application is built using HTML, CSS, and JavaScript for the frontend, and Node.js with Express.js for the backend. PostgreSQL is used as the database management system to store calculation history.
+
 ## Change Log  📝 
 * v0.1.0 - 09/02/2024:
   - **feat: Set calculate button blue**
