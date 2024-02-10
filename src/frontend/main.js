@@ -1,8 +1,8 @@
 var selected_operator = null;
 
 function calculate(){
-    var first_number = document.getElementById('first-number').value
-    var second_number = document.getElementById('second-number').value
+    var first_number = parseInt(document.getElementById('first-number').value)
+    var second_number = parseInt(document.getElementById('second-number').value)
     let result
 
     switch (selected_operator) {
